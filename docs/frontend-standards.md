@@ -4,6 +4,9 @@ title: Frontend Standards
 sidebar_label: Frontend Standards
 
 ---
+    
+    
+    
     # frontend-development-standards
     
     > Standards for development at Medallia
@@ -118,4 +121,3 @@ sidebar_label: Frontend Standards
     * Never rebase and force-push pull requests. This destroys your personal history, loses code review comments, and forces reviewers to have to "start over" instead of just looking at new changes.
     * When making pull requests, fork the repo and make the changes in a branch in your own repo. This way we can keep the origin clean and only include branches that need to live forever, like release branches.
     * Always ask for a code review on Slack. Never assume somebody will just start reviewing your code, even if you assign it to them on Github.
-    
